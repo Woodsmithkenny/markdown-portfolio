@@ -1,1 +1,1 @@
-(Strongback Solutions)[https://www.strongback.us/solutions]
+[Strongback Solutions](https://www.strongback.us/solutions)
