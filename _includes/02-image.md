@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Strongback Logo](https://www.strongback.us/wp-content/uploads/2016/06/SBlogo_400px.png)
